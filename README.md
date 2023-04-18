@@ -25,3 +25,9 @@ $ python main.py
 В скрипте main.py продемонстрированы все возможности с только что установленным приложением WhatsApp. 
 Если у вас уже осуществлена регистрация WhatsApp на AVD, то дальнейшую демонстрацию возможностей необходимо выполнять при
 закомментированной строчке скрипта, реализующей регистрацию аккаунта.
+
+## Источники
+[Документация Appium](http://appium.io/docs/en/2.0/)  
+[Appium python client](https://pypi.org/project/Appium-Python-Client/)  
+[Appium inspector](https://github.com/appium/appium-inspector?ysclid=lgmbdvaa46176034047)  
+[Appium python video](https://www.youtube.com/playlist?list=PLWIBmxdTr81dDEZRiNxoy55dIDWtMyOoc)  
